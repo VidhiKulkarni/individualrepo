@@ -1,15 +1,13 @@
-## Vidhi's Individual Repository Jekyll
+## Vidhi's Individual Jekyll
 
 You can use the [editor on GitHub](https://github.com/VidhiKulkarni/individualrepo/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### TPT 5.1 Questions
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+1. Come up with three of your own Beneficial and corresponding Harmful Effects of Computing
+2. Talk about dopamine issues above. Real? Parent conspiracy? Anything that is impacting your personal study and success in High School?
 
 # Header 1
 ## Header 2
