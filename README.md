@@ -6,8 +6,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### TPT 5.1 Questions
 
-1. Come up with three of your own Beneficial and corresponding Harmful Effects of Computing
-2. Talk about dopamine issues above. Real? Parent conspiracy? Anything that is impacting your personal study and success in High School?
+1. Come up with three of your own Beneficial and corresponding Harmful Effects of Computing.
+
+Three beneficial effects of computing are 
+3. Talk about dopamine issues above. Real? Parent conspiracy? Anything that is impacting your personal study and success in High School?
 
 # Header 1
 ## Header 2
