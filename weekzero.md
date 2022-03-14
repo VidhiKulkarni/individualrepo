@@ -1,22 +1,24 @@
 
 # WEEK ZERO
 
-## _**5.1 TPT Questions**_
+## 5.1 Questions
+Come up with three of your own Beneficial and corresponding Harmful Effects of Computing.
 
-_Three of your own Beneficial and corresponding Harmful Effects of Computing_
-<br>
-<br>
-**Beneficial Effects**:
-One of the most beneficial effects of computing is the communication we are able to utilize from the technology. We are able to connect with people around the world globally, and even communicate with people nearby, like students and teachers when we need help. This helps us build connections with others around us, which is a benefit from the increased sources of communication we receive from technology. Another benefit of technology and computing is the development of new devices that can help solve problems in our world. One example of this is in medicine and science, where we are able to create devices that can help solve sicknesses that may not have been able to be resolved otherwise. One other benefit of technology is a better understanding of data. We are able to analyze data more thoroughly and efficiently with the help of technology and computing, which is another benefit in our world.
+Three benefits of computing are that we are able to connect with one another more quickly, we have access to a lot of information, and we can use computing to go places faster and with ease. Three harmful effects are that computing may cause dopamine issues, may be addictive, and may cause eye strain and other physical issues.
 
-**Harmful Effects**:
-One of the negative effects of technology is the social skill issues that may come up after communicating with others over the phone or computer for a long time. We may lose our social skills when it comes to talking to others in real life, which is something that would not be good for our futures. Another negative effect of computing and technology is the fact that data can be stolen from you with attacks from hackers or others through the intent. This may make people more susceptible to bugs on their devices, which is harmful and can cause problems in their everyday lives. One other negative and harmful effect of computing and technology is a negative decline in mental health. With social media and spending a great deal of time on devices, students are not getting the amount of sleep and interactions with friends as they need, causing them to have a decline in mental health and physical wellness.
+Talk about dopamine issues above. Real? Parent conspiracy? Anything that is impacting your personal study and success in High School?
 
-<br>
+Dopamine issues occur when people get short-term dopamine from things like likes on social media posts, playing video games, etc. These issues impact my personal study because they may be addictive and cause me to lose focus.
 
+## 5.2 Questions
+How does someone empower themself in a digital world?
 
-_Talk about dopamine issues above. Real? Parent conspiracy? Anything that is impacting your personal study and success in High School?_
+You can empower yourself in the digital world by automating many everyday tasks. Being technologically competent can also provide an avenue to academic and career success.
 
-I think that the dopamine issues above are real and are a thing that should be acknowledged more in our world. Dopamine is the chemical that allows us to feel pleasure, and it is easy to get addicted to this feeling of pleasure, causing us to do things more and more. For example, people become addicted to video games when they want the feeling of winning. People may also become obsessed with the amount of likes or comments they get on their social media posts as they like the feeling of being liked. Personally, I think one slight problem is scrolling on my phone on social media, as sometimes it helps me forget about my work for some time. It is not a big problem right now, but the dopamine of scrolling may become an addiction for some people.  
+How does someone that is empowered help someone that is not empowered? Describe something you could do at Del Norte HS.
 
-## _**5.2 TPT Questions**_
+Something I can do at DNHS is help other students learn more about technology. We can empower those that are not empowered by incorporating more technology into classrooms.
+
+Is paper or red tape blocking digital empowerment? Are there such barriers at Del Norte? Elsewhere?
+
+I do not believe that paper or red tape blocks digital empowerment. There is not much you can do to block content from the internet. There are such barriers at DNHS in the sense that there are websites blocked. This can also occur in other schools.
