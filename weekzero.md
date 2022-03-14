@@ -1,4 +1,3 @@
-{% include navigation.html %}
 
 # WEEK ZERO
 
