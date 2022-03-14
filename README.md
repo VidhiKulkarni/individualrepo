@@ -67,8 +67,13 @@ I do not believe that paper or red tape blocks digital empowerment. There is not
 * Countries: computers not common in rural areas, small # of websites, internet to protect/advocate govt, high surveillance to protect govt.
 * Digital divide affects grps, individuals, raises issues, affected by actions of orgs, individuals, etc.
 
-# Create Task
+## Create Task
 
 | Runtime Link | Code Snippets/Written Responses | Planning Page |
 | ------------ | ------------------------------- | ------------- | 
 | http://dnhscodefish.tk/ | [Code Snippets/Written Responses](https://github.com/arushi10/codefish/wiki/Vidhi---Written-Create-Task) | [Tic Tac Toe Partner Create Task Outline](https://github.com/arushi10/codefish/wiki/Vidhi-and-Saumya-Create-Task:--Tic-Tac-Toe) |
+
+## Challenges
+| Github Link | Repl.it Link | 
+| ------------ | ------------------------------- |
+| [Github Link](https://github.com/VidhiKulkarni/individualrepo) | [Repl.it Link](https://replit.com/@vidhik/individualrepo-1) |
