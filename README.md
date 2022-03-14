@@ -1,5 +1,5 @@
 ## Vidhi's Individual Jekyll
-
+## Jekyll Link: https://vidhikulkarni.github.io/individualrepo/
 
 # WEEK ZERO
 
@@ -75,5 +75,5 @@ I do not believe that paper or red tape blocks digital empowerment. There is not
 
 ## Challenges
 | Github Link | Repl.it Link | 
-| ------------ | ------------------------------- |
+| ------------ | ----------- |
 | [Github Link](https://github.com/VidhiKulkarni/individualrepo) | [Repl.it Link](https://replit.com/@vidhik/individualrepo-1) |
