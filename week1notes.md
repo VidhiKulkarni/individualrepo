@@ -1,3 +1,7 @@
+
+{% include navigation.html %}
+
+
 **5.3 Notes:**
 
 -how ppl participate in problem-solving processing (crowdsourcing)
