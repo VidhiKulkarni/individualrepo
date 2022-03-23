@@ -1,6 +1,55 @@
 {% include navigation.html %}
 
 # WEEK ZERO
+
+## 5.4 Notes:
+
+Netflix:
+
+
+* Explicit Data:
+* Thumbs
+* Name, address, etc.
+* Implicit Data
+* When you watched
+* What you binged
+* Style
+
+
+* Bias:
+* Netflix exclusives are featured ahead of most
+* Subscriptions
+* Computing innovations can reflect existing human biases because of biases written into the algorithms or biases in the data used by the innovation.
+
+
+* Hypothetical Loan Company:
+* Creating software to assist loan officers
+* Find trends in successful loans
+
+
+* Reject those that don’t fit trends:
+* Age
+* Gender
+* Race
+* Programmers should take action to reduce bias in algorithms used for computing innovations as a way of combating existing human biases.
+
+* Biases can be embedded at all levels of software development.
+
+
+* All software is biased:
+* Casual vs Sweaty
+* Youtube Kids
+* Facebook/Insta
+* Wechat
+
+## 5.4 Questions
+CompSci has 150 principles students. Describe a crowdsource idea and how you might initiate it in our environment?
+A crowdsource we can initiate is a discussion board, where people can contribute ideas and add to comments and discussions.
+
+What about Del Norte crowdsourcing? Could your final project be better with crowdsourcing?
+Our final project could be better with crowdsourcing because we can involve more opinions from peers about the club.
+
+
 ## 5.3 Notes:
 
 -how ppl participate in problem-solving processing (crowdsourcing)
@@ -45,45 +94,51 @@ IndieGoGo; philanthropic/nonprofit programs
 
 crowdsourcing: information taken from a lot of people, business, social causes with funding
 
-## 5.4 Notes:
 
-Netflix:
+## 5.3 Questions
 
+Does the owner of the computer think this was intentional?
+No, the owner does not think this was intentional.
 
-* Explicit Data:
-* Thumbs
-* Name, address, etc.
-* Implicit Data
-* When you watched
-* What you binged
-* Style
+If yes or no, justify you conclusion.
+The owner doesn't think this was intentional because the owner doesn't seem upset about it.
 
+How do you think this happened?
+This happened because there was not a variety of people used for testing.
 
-* Bias:
-* Netflix exclusives are featured ahead of most
-* Subscriptions
-* Computing innovations can reflect existing human biases because of biases written into the algorithms or biases in the data used by the innovation.
+Is this harmful? Was it intended to be harmful or exclude?
+This is harmful because certain races are not taken into account.
 
+Should it be corrected?
+It should be corrected because it is impacting the people that use the computer.
 
-* Hypothetical Loan Company:
-* Creating software to assist loan officers
-* Find trends in successful loans
+What would you or should you do to produce a better outcome?
+There should be a variety of races tested on.
 
 
-* Reject those that don’t fit trends:
-* Age
-* Gender
-* Race
-* Programmers should take action to reduce bias in algorithms used for computing innovations as a way of combating existing human biases.
 
-* Biases can be embedded at all levels of software development.
+## 5.2 Questions
+How does someone empower themself in a digital world?
 
+You can empower yourself in the digital world by automating many everyday tasks. Being technologically competent can also provide an avenue to academic and career success.
 
-* All software is biased:
-* Casual vs Sweaty
-* Youtube Kids
-* Facebook/Insta
-* Wechat
+How does someone that is empowered help someone that is not empowered? Describe something you could do at Del Norte HS.
+
+Something I can do at DNHS is help other students learn more about technology. We can empower those that are not empowered by incorporating more technology into classrooms.
+
+Is paper or red tape blocking digital empowerment? Are there such barriers at Del Norte? Elsewhere?
+
+I do not believe that paper or red tape blocks digital empowerment. There is not much you can do to block content from the internet. There are such barriers at DNHS in the sense that there are websites blocked. This can also occur in other schools.
+
+## 5.2 Notes
+* Issues that contribute to divide
+* Internet access varies bw all areas
+* Divide → differing access
+* Socioeconomic: how much money comes into house each yr
+* Geographic: live  w not that many ppl; no Internet
+* Demographics (Age, Religion) → less likely to have these things
+* Countries: computers not common in rural areas, small # of websites, internet to protect/advocate govt, high surveillance to protect govt.
+* Digital divide affects grps, individuals, raises issues, affected by actions of orgs, individuals, etc.
 
 ## 5.1 Questions
 Come up with three of your own Beneficial and corresponding Harmful Effects of Computing.
@@ -124,27 +179,3 @@ Dopamine issues occur when people get short-term dopamine from things like likes
 * Comp innovations may harm society, economy, culture
 * Impossible for a programmer to consider all the ways a computing innovation is used
 * Rapid sharing of a program results in impacts beyond intended purpose/control
-
-
-## 5.2 Questions
-How does someone empower themself in a digital world?
-
-You can empower yourself in the digital world by automating many everyday tasks. Being technologically competent can also provide an avenue to academic and career success.
-
-How does someone that is empowered help someone that is not empowered? Describe something you could do at Del Norte HS.
-
-Something I can do at DNHS is help other students learn more about technology. We can empower those that are not empowered by incorporating more technology into classrooms.
-
-Is paper or red tape blocking digital empowerment? Are there such barriers at Del Norte? Elsewhere?
-
-I do not believe that paper or red tape blocks digital empowerment. There is not much you can do to block content from the internet. There are such barriers at DNHS in the sense that there are websites blocked. This can also occur in other schools.
-
-## 5.2 Notes
-* Issues that contribute to divide
-* Internet access varies bw all areas
-* Divide → differing access
-* Socioeconomic: how much money comes into house each yr
-* Geographic: live  w not that many ppl; no Internet
-* Demographics (Age, Religion) → less likely to have these things
-* Countries: computers not common in rural areas, small # of websites, internet to protect/advocate govt, high surveillance to protect govt.
-* Digital divide affects grps, individuals, raises issues, affected by actions of orgs, individuals, etc.
