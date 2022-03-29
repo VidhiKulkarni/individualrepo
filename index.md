@@ -1,3 +1,5 @@
+{% include navigation.html %}
+
 ---
 layout: default
 ---
@@ -8,7 +10,6 @@ layout: default
   </video>
 </div>
 
-{% include navigation.html %}
 
 ## Vidhi Kulkarni - Individual Repository
 
