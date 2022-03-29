@@ -1,6 +1,6 @@
 {% include navigation.html %}
 
-# WEEK ZERO
+# Github page actions
 TPT 2.0 Legal and Ethical Concerns 5.5
 Notes:
 
