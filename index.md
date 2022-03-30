@@ -1,4 +1,6 @@
-{% include navigation.html %}
+---
+layout: default
+---
 
 <div id="video_wrapper">
   <video autoplay loop>
@@ -6,6 +8,7 @@
   </video>
 </div>
 
+{% include navigation.html %}
 
 
 ## Vidhi Kulkarni - Individual Repository
