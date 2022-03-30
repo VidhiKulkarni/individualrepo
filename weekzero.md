@@ -1,113 +1,24 @@
 {% include navigation.html %}
 
 # Github page actions
-TPT 2.0 Legal and Ethical Concerns 5.5
-Notes:
-
-Learning objectives
-Explain how the use of computing can raise legal and ethical concerns
-Essential knowledge
-Material created on a computer is the intellectual property of the creator or an organization
-Ease of access and distribution of digitized information raises intellectual property concerns regarding ownership, value, and use
-Measures should be taken to safeguard intellectual property
-The use of material created by someone other than you should always be cited
-Creative commons, open source, and open access have enable board access to digital information
-As with any technology or medium, using computing to harm individuals or groups of people raises legal and ethical concerns
-Intellectual property
-= a work or invention that is the result of creativity to which one has rights
-Copyright
-Copyright protects your IP and keeps anyone from using it, unless you give them your permission
-Plagiarism: presenting material as your own
-Legal ways to use material created by someone else
-Creative Commons
-Open source
-Open access
-Creative Commons
-Creative commons provides free licenses that you can use to tell others how you want them to use your creations
-Clearly tells others what they can and cannot do with your IP
-Open source and open access
-Open source: programs made freely available for anyone to use and may be redistributed and modified
-Open access: online research output free of any and all restrictions on access and free of many restrictions on use, such as copyright or license restrictions
-Digital divide
-Unequal distribution of access to technology
-GitHub Page Actions
-
-When you create a GitHub repository it requests a license type. Review the license types in relationship to this Tech Talk and make some notes in GitHub pages.
-The MIT license is short, easy to understand, and allows anyone to do anything as long as I keep a copy of the license. For MIT, I will also be able to change the license in the future as my goals changed.
+## TPT 2.0 Legal and Ethical Concerns 5.5
+1. The MIT license is short, easy to understand, and allows anyone to do anything as long as I keep a copy of the license. For MIT, I will also be able to change the license in the future as my goals changed.
 Apache 2.0 suits those who want their project to appeal to companies since it will display all the contributors to the project.
-Make a license for your personal and Team project. Document license you picked and why.
-I picked the MIT license for both my personal project and Team project. I picked the MIT license because it is recommended for a blank repository. It’s short, very easy to understand, and allows anyone to do anything so long as they keep a copy of the license, including my copyright notice. Because I’ll be able to release the project under a different license if you ever need to, I can still change the license later. This allowed me a greater flexibility.
-TPT 2.0 Legal and Ethical Concerns 5.6
-Learning objectives
-Describe the risks to privacy from collecting and storing personal data on a computer system
-Essential knowledge
-Information placed online can be used in ways that were not intended and that may have a harmful impact
-PII can be used to stalk or steal the identity of a person or to aid in the planning of other criminal acts
-Personally identifiable information (PII)
-Social security number
-Age
-Race
-Phone number
-Date of birth
-Email address
-Mailing address
-Medical information
-Credit card information
-Can be used by people to steal someone’s identity, bank funds, or to impersonate someone in order to gain access to an organization
-PII
-Search engines matina a history of what you search
-Your search history is used to suggest other websites you may like or for targeted marketing
-Your location can even be collect
-PII: good and bad
-PII can be used to enhance a user’s online experience
-PII can be exploited if privacy and other protections are ignored
-Information placed online can be used in ways that were not intended and that may have a harmful impact
-Risks to privacy
-The information placed online is difficult to delete
-Information posted to social media can be used by others and combined with other sources to deduce private information about you
-This information can then be used in ways that were not intended anime have a harmful impact
-Authentication
-Measures protect devices and information from unauthorized access
-Authentication measures
-Strong passwords
-Multi-factor authentication
-Strong passwords
-10+ characters
-Must contain a symbol
-Must contain a number
-Must contain lowercase and uppercase letters
-Multi Factor authentication
-Types of authentication
-What you know
-What you have
-What you are
-Virus and Malware
-Virus: malicious programs that can copy themselves and gain access to systems that they are not supposed to be allowed in
-Malware: often intended to damage a computing system or take partial control over its operation
-Can infiltrate a system by posing as legitimate programs or by attaching itself to legitimate programs, like an email attachment
-Encryption and Decryption
-Once legitimate access to a system is gained, it is important to ensure data sent to and from the system remains uncompromised
-Encryption: the process of encoding data to prevent unauthorized access
-Decryption: the process of decoding data
-Two types of encryption
-Symmetric encryption
-Asymmetric encryption
-Symmetric encryption: one key used to both encrypt and decrypt data
-Example: caesar cipher
-Github Page Actions
 
-Describe PII you have seen on project in CompSci Principles.
-On the GitHub pages, we have included our personal information of our email. In the CRUD database, we included our members’ names and our favorite food. Furthermore, in the about me pages done in tri 1 and tri 2, we had put information and links to our instagram accounts.
-What are your feelings about PII and your exposure?
-I feel like sometimes the exposure of PII is sometimes important. For example, it is important to expose some PII on websites such as LinkedIn since the goal is to let recruiters know you. However, sometimes the exposure of PII on social media may allow others to locate you and can be potentially dangerous.
-Describe good and bad passwords? What is another step that is used to assist in authentication.
-A good password is one that includes upper and lower cases and include special characnters such as question marks or hashtags. A bad password is one that is too easy to remember, such as 12345 or the name of the user. Another step that is used to assist in authentication is sending verification code to the number every time the user tries to log in.
-Try to describe Symmetric and Asymmetric encryption.
-Symmetrica encruption is when one key us used to both encrypt and decrypt data. On the other hand, encryption is the process of encoding data to prevent unauthorized access. Decryption is the process of decoding data.
-Provide and example of encryption we used in deployment.
-The deployer has to log in to their account before they can republish the website and access the website.
-Describe a phishing scheme you have learned about the hard way. Describe some other phishing techniques.
-I have had little experience with a phishing scheme since I rarely click on links sent to me. However, my dad had once recevied a text message saying that his card made an unauthorized change and that he needs to click on the link to check it out. After he clicked it, they got his card information. Some other phising techniques include sending Emails and ask you to fill it out with your personal infomration.
+2. I picked the MIT license for both my personal project and Team project. I picked the MIT license because it is recommended for a blank repository. It’s short, very easy to understand, and allows anyone to do anything so long as they keep a copy of the license, including my copyright notice. Because I’ll be able to release the project under a different license if you ever need to, I can still change the license later. This allowed me a greater flexibility.
+
+## TPT 2.0 Legal and Ethical Concerns 5.6
+1. On the GitHub pages, we have included our personal information of our email. In the CRUD database, we included our members’ names and our favorite food. Furthermore, in the about me pages done in tri 1 and tri 2, we had put information and links to our instagram accounts.
+
+2. I feel like sometimes the exposure of PII is sometimes important. For example, it is important to expose some PII on websites such as LinkedIn since the goal is to let recruiters know you. However, sometimes the exposure of PII on social media may allow others to locate you and can be potentially dangerous.
+
+3. A good password is one that includes upper and lower cases and include special characnters such as question marks or hashtags. A bad password is one that is too easy to remember, such as 12345 or the name of the user. Another step that is used to assist in authentication is sending verification code to the number every time the user tries to log in.
+
+4. Symmetrica encruption is when one key us used to both encrypt and decrypt data. On the other hand, encryption is the process of encoding data to prevent unauthorized access. Decryption is the process of decoding data.
+
+5. The deployer has to log in to their account before they can republish the website and access the website.
+
+6. I have had little experience with a phishing scheme since I rarely click on links sent to me. However, my dad had once recevied a text message saying that his card made an unauthorized change and that he needs to click on the link to check it out. After he clicked it, they got his card information. Some other phising techniques include sending Emails and ask you to fill it out with your personal infomration.
 
 ## 5.4 Notes:
 
