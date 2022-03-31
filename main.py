@@ -8,6 +8,7 @@
 # import treeanim
 # import catanim
 # import ship
+import src.week2.numbers
 
 border = "=" * 25
 banner = f"\n{border}\nPlease Select An Option\n{border}"
@@ -19,6 +20,8 @@ main_menu = [
     ["Tree", "src/week0/tree.py"],
     ["Factorial", "src/week2/factorial.py"],
     ["Factors", "src/week2/factors.py"],
+    ["Numbers", src.week2.numbers.color],
+
 ]
 
 
