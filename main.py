@@ -9,6 +9,10 @@
 # import catanim
 # import ship
 import src.week2.numbers
+import src.week2.findprimes
+import src.week2.fish
+from src.week2.factors import Factor
+
 
 border = "=" * 25
 banner = f"\n{border}\nPlease Select An Option\n{border}"
@@ -21,6 +25,7 @@ main_menu = [
     ["Factorial", "src/week2/factorial.py"],
     ["Factors", "src/week2/factors.py"],
     ["Numbers", src.week2.numbers.color],
+    ["Fish", src.week2.fish.printFish],
 
 ]
 
@@ -35,14 +40,16 @@ sub_menu = [
 
 sub_menu1 = [
     ["Factorial", "src/week2/factorial.py"],
-    ["Factors", "src/week2/factors.py"],
-    ["Find Factors", "src/week2/findprimes.py"]
+    ["Find Primes", src.week2.findprimes.primes],
+    ["Find Factors Imperative", src.week2.factors.factors],
+    # ["Find Factors OOP", src.week2.factors.OOP]
+    
 ]
 
 sub_menu2 = [
     ["Factorial", "src/week2/factorial.py"],
     ["Factors", "src/week2/factors.py"],
-    ["Find Factors", "src/week2/findprimes.py"]
+    ["Find Primes", src.week2.findprimes.primes]
 ]
 
 
