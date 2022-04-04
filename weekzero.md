@@ -6,23 +6,22 @@ layout: default
 
 # Github page actions
 ## TPT 2.0 Legal and Ethical Concerns 5.5
-1. The MIT license is short, easy to understand, and allows anyone to do anything as long as I keep a copy of the license. For MIT, I will also be able to change the license in the future as my goals changed.
-Apache 2.0 suits those who want their project to appeal to companies since it will display all the contributors to the project.
+1. The MIT license is efficient and easy to understand. I can do anything as long as I keep a copy of the license. I can also change the license in the future if my goals change.
 
-2. I picked the MIT license for both my personal project and Team project. I picked the MIT license because it is recommended for a blank repository. It’s short, very easy to understand, and allows anyone to do anything so long as they keep a copy of the license, including my copyright notice. Because I’ll be able to release the project under a different license if you ever need to, I can still change the license later. This allowed me a greater flexibility.
+2. I picked the MIT license for both my personal project and Team project. I picked it because it is easy to understand and was recommended for me to use. I can also change the license in the future if my goals change.
 
 ## TPT 2.0 Legal and Ethical Concerns 5.6
-1. On the GitHub pages, we have included our personal information of our email. In the CRUD database, we included our members’ names and our favorite food. Furthermore, in the about me pages done in tri 1 and tri 2, we had put information and links to our instagram accounts.
+1. On the GitHub pages, we included information about us. In the database, we included club information such as members' emails. We also put sign-up links.
 
-2. I feel like sometimes the exposure of PII is sometimes important. For example, it is important to expose some PII on websites such as LinkedIn since the goal is to let recruiters know you. However, sometimes the exposure of PII on social media may allow others to locate you and can be potentially dangerous.
+2. Depending on the situation, PII is good. Sometimes, in recruting sites it helps you find a job/make connections. Otherwise, it may steal data.
 
-3. A good password is one that includes upper and lower cases and include special characnters such as question marks or hashtags. A bad password is one that is too easy to remember, such as 12345 or the name of the user. Another step that is used to assist in authentication is sending verification code to the number every time the user tries to log in.
+3. A good password is one that includes upper and lower cases and include special characnters such as question marks or hashtags. A bad password is one that is too easy to remember or common.
 
 4. Symmetrica encruption is when one key us used to both encrypt and decrypt data. On the other hand, encryption is the process of encoding data to prevent unauthorized access. Decryption is the process of decoding data.
 
-5. The deployer has to log in to their account before they can republish the website and access the website.
+5. The deployer has to log in before they can republish the site.
 
-6. I have had little experience with a phishing scheme since I rarely click on links sent to me. However, my dad had once recevied a text message saying that his card made an unauthorized change and that he needs to click on the link to check it out. After he clicked it, they got his card information. Some other phising techniques include sending Emails and ask you to fill it out with your personal infomration.
+6. I have had little experience with a phishing scheme, as I have never experienced one. But, I do know they can happen through email and malicious sites.
 
 ## 5.4 Notes:
 
