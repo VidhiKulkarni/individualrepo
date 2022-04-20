@@ -5,6 +5,8 @@ layout: default
 {% include navigation.html %}
 
 # Github page actions
+## Logins and Accounts
+Adding some sort of login page to the website can help protect user data. It would also be good to verify those that frequently logon to avoid attacks.
 ## TPT 2.0 Legal and Ethical Concerns 5.5
 1. The MIT license is efficient and easy to understand. I can do anything as long as I keep a copy of the license. I can also change the license in the future if my goals change.
 
