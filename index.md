@@ -13,3 +13,6 @@
 
 
 [Week 4 - Accounts and Logins Review Ticket](https://github.com/VidhiKulkarni/teamlace/issues/28 )
+
+
+[Week 5 - Proctored MCQ Week1 : Quiz1, Quiz2 Scores](https://github.com/VidhiKulkarni/teamlace/issues/33)
