@@ -63,7 +63,7 @@
 **If a negative of the original image is made, each RGB triplet value will be computed by subtracting the original value from 255. The original value can then be restored by subtracting the new value from 255. This process is lossless because the exact original can be restored.**
 
 
-## Finals-Quiz 1 
+## Finals-Quiz 2 
 
 
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/32562016/165031218-3464c2b7-0efa-4a78-a7c4-a5886b55b615.png">
