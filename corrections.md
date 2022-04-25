@@ -22,7 +22,7 @@
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/32562016/164803512-af553d0a-6327-46dc-86ce-cff0bfd9a3c0.png">
 
 
-**A packet is a portion of data that is transmitted over the Internet. The metadata is used to route the data or the packet on the Internet.
+**A packet is a portion of data that is transmitted over the Internet. The metadata is used to route the data or the packet on the Internet.**
 
 
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/32562016/164803708-8ac798fc-30b9-4363-a427-3afd1b9c0185.png">
