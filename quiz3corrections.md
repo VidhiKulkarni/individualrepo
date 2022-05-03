@@ -1,3 +1,7 @@
+
+{% include navigation.html %}
+
+
 # Quiz 3 Corrections
 
 ## Score: 41/50
