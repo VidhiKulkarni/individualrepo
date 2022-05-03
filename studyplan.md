@@ -3,7 +3,7 @@
 
 # Study Plans 
 
-## Week 5 (4/18-4/24)
+## Week 6
 
 Monday - Tuesday: Watch CB Lectures and review CSP outlines for each unit
 
