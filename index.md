@@ -19,3 +19,5 @@
 
 
 [Week 6 - Proctored MCQ Week2 : Quiz3 and Create Task review](https://github.com/VidhiKulkarni/teamlace/issues/34)
+
+[Week 7 - AP Exams Week 1](https://github.com/VidhiKulkarni/teamlace/issues/36)
